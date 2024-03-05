@@ -1,5 +1,5 @@
-# Ethicka-Hacking-Techniques---19CS417-
-Ethicka Hacking Techniques - 19CS417 
+# Ethical-Hacking-Techniques---19CS417-
+Ethical Hacking Techniques - 19CS417 
 ```
 BHARGAVA s
 212221040029
