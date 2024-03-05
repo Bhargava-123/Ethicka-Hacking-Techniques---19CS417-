@@ -59,9 +59,11 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 ### SERVER OUTPUT
-![serv](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/5ad1e211-f275-4497-b3a2-dd83cd40bbf7)
+![image](https://github.com/Bhargava-123/Ethicka-Hacking-Techniques---19CS417-/assets/85554376/9c9d41d2-df56-4f78-aab5-fa312036beab)
+
 ### CLIENT OUTPUT
-![clie](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/dd61c636-79db-4c5a-93f7-3a02c253a4f9)
+![image](https://github.com/Bhargava-123/Ethicka-Hacking-Techniques---19CS417-/assets/85554376/c7647b26-f8c3-4b0f-81fb-c3420851a984)
+
 
 ## RESULT:
 The program is executed successfully
