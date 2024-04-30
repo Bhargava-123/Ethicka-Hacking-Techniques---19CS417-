@@ -1,11 +1,11 @@
-# Ethical-Hacking-Techniques---19CS417-
+# EX 1 : Ethical-Hacking-Techniques---19CS417-
 Ethical Hacking Techniques - 19CS417 
 ```
 BHARGAVA s
 212221040029
 CSE (III)
 ```
-# Simple echo server and client using Python socket
+# EX 1 : Simple echo server and client using Python socket
 Echo server and client using python socket
 
 # AIM:
