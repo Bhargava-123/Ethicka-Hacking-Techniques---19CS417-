@@ -5,7 +5,7 @@ BHARGAVA s
 212221040029
 CSE (III)
 ```
-# Echoserver
+# Simple echo server and client using Python socket
 Echo server and client using python socket
 
 # AIM:
